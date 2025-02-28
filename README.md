@@ -12,3 +12,6 @@ License
 
 This project is for educational purposes only.
 
+OUTPUT:
+
+![Screenshot 2025-02-28 212410](https://github.com/user-attachments/assets/11a19dae-e3ae-4a7e-8e53-7d9f3a3af1ee)
